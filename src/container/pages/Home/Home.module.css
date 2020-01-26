@@ -1,0 +1,24 @@
+.Home {
+     padding: 0.5em 2em 2em 2em;
+     font-family: serif;
+     color: rgba(21, 95, 165, 0.61);
+     direction: center;
+     
+}
+
+.articleSize {
+    font-size: 20px;
+    font-family: serif;
+}
+
+.containerBg{
+    padding: 0.5em 1.5em 1.5em 1.5em;
+    background-color: rgba(94, 94, 231, 0.904);
+    color: white;
+    text-align: center;
+    
+}
+
+.developer {
+    background: skyblue;
+}
