@@ -1,7 +1,7 @@
 {
   "name": "expenses-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Humiditii/Expenses",
+  "homepage": "https://github.com/humiditii/Expenses",
   "private": true,
   "dependencies": {
     "cra-template": "1.0.0",
