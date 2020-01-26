@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Humiditii/Expenses/static/css/main.d1add659.chunk.css",
+    "main.js": "/Humiditii/Expenses/static/js/main.51ec1c3a.chunk.js",
+    "main.js.map": "/Humiditii/Expenses/static/js/main.51ec1c3a.chunk.js.map",
+    "runtime-main.js": "/Humiditii/Expenses/static/js/runtime-main.053efdf6.js",
+    "runtime-main.js.map": "/Humiditii/Expenses/static/js/runtime-main.053efdf6.js.map",
+    "static/css/2.4ed35882.chunk.css": "/Humiditii/Expenses/static/css/2.4ed35882.chunk.css",
+    "static/js/2.5ce5e685.chunk.js": "/Humiditii/Expenses/static/js/2.5ce5e685.chunk.js",
+    "static/js/2.5ce5e685.chunk.js.map": "/Humiditii/Expenses/static/js/2.5ce5e685.chunk.js.map",
+    "index.html": "/Humiditii/Expenses/index.html",
+    "precache-manifest.a4a9a314e37baee9928154974b600cb6.js": "/Humiditii/Expenses/precache-manifest.a4a9a314e37baee9928154974b600cb6.js",
+    "service-worker.js": "/Humiditii/Expenses/service-worker.js",
+    "static/css/2.4ed35882.chunk.css.map": "/Humiditii/Expenses/static/css/2.4ed35882.chunk.css.map",
+    "static/css/main.d1add659.chunk.css.map": "/Humiditii/Expenses/static/css/main.d1add659.chunk.css.map",
+    "static/js/2.5ce5e685.chunk.js.LICENSE": "/Humiditii/Expenses/static/js/2.5ce5e685.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.053efdf6.js",
+    "static/css/2.4ed35882.chunk.css",
+    "static/js/2.5ce5e685.chunk.js",
+    "static/css/main.d1add659.chunk.css",
+    "static/js/main.51ec1c3a.chunk.js"
+  ]
+}
