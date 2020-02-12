@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/humiditii/Expenses/static/css/main.d1add659.chunk.css",
-    "main.js": "/humiditii/Expenses/static/js/main.3910ff19.chunk.js",
-    "main.js.map": "/humiditii/Expenses/static/js/main.3910ff19.chunk.js.map",
-    "runtime-main.js": "/humiditii/Expenses/static/js/runtime-main.0c9e9078.js",
-    "runtime-main.js.map": "/humiditii/Expenses/static/js/runtime-main.0c9e9078.js.map",
-    "static/css/2.4ed35882.chunk.css": "/humiditii/Expenses/static/css/2.4ed35882.chunk.css",
-    "static/js/2.5ce5e685.chunk.js": "/humiditii/Expenses/static/js/2.5ce5e685.chunk.js",
-    "static/js/2.5ce5e685.chunk.js.map": "/humiditii/Expenses/static/js/2.5ce5e685.chunk.js.map",
-    "index.html": "/humiditii/Expenses/index.html",
-    "precache-manifest.7233f503be21df7c61108d331f26403c.js": "/humiditii/Expenses/precache-manifest.7233f503be21df7c61108d331f26403c.js",
-    "service-worker.js": "/humiditii/Expenses/service-worker.js",
-    "static/css/2.4ed35882.chunk.css.map": "/humiditii/Expenses/static/css/2.4ed35882.chunk.css.map",
-    "static/css/main.d1add659.chunk.css.map": "/humiditii/Expenses/static/css/main.d1add659.chunk.css.map",
-    "static/js/2.5ce5e685.chunk.js.LICENSE": "/humiditii/Expenses/static/js/2.5ce5e685.chunk.js.LICENSE"
+    "main.css": "/Expenses/static/css/main.d1add659.chunk.css",
+    "main.js": "/Expenses/static/js/main.876b5ef0.chunk.js",
+    "main.js.map": "/Expenses/static/js/main.876b5ef0.chunk.js.map",
+    "runtime-main.js": "/Expenses/static/js/runtime-main.9550c099.js",
+    "runtime-main.js.map": "/Expenses/static/js/runtime-main.9550c099.js.map",
+    "static/css/2.4ed35882.chunk.css": "/Expenses/static/css/2.4ed35882.chunk.css",
+    "static/js/2.5ce5e685.chunk.js": "/Expenses/static/js/2.5ce5e685.chunk.js",
+    "static/js/2.5ce5e685.chunk.js.map": "/Expenses/static/js/2.5ce5e685.chunk.js.map",
+    "index.html": "/Expenses/index.html",
+    "precache-manifest.695bb3dd48bbec99800aad2f93839892.js": "/Expenses/precache-manifest.695bb3dd48bbec99800aad2f93839892.js",
+    "service-worker.js": "/Expenses/service-worker.js",
+    "static/css/2.4ed35882.chunk.css.map": "/Expenses/static/css/2.4ed35882.chunk.css.map",
+    "static/css/main.d1add659.chunk.css.map": "/Expenses/static/css/main.d1add659.chunk.css.map",
+    "static/js/2.5ce5e685.chunk.js.LICENSE": "/Expenses/static/js/2.5ce5e685.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c9e9078.js",
+    "static/js/runtime-main.9550c099.js",
     "static/css/2.4ed35882.chunk.css",
     "static/js/2.5ce5e685.chunk.js",
     "static/css/main.d1add659.chunk.css",
-    "static/js/main.3910ff19.chunk.js"
+    "static/js/main.876b5ef0.chunk.js"
   ]
 }
